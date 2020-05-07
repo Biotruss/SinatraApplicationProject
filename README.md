@@ -1,0 +1,2 @@
+# SinatraApplicationProject
+This is a simple sinatra-active_record application that imitates how an actual blog would function. In this blog application users are encouraged to write about their favorite games! Users need to signup and must be logged in to use the application. Users will be able to read posts created by other users and create posts of their own. Another function is that an individual user can only edit and delete posts that they have created themselves. When users are done they can logout and return to create new posts and edit old ones as they please.
